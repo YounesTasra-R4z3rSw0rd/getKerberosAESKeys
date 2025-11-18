@@ -22,12 +22,10 @@ python3 getKerberosAESKey.py --help
 
 Kerberos salts typically follow one of these forms:
 
-User principal:
-`<REALM><username>`
+* User principal: `<REALM><username>`</br>
 Example: `DOMAIN.LOCALjohn.doe`
 
-Host/service principal:
-`<REALM>host/fqdn`
+* Host/service principal: `<REALM>host/fqdn`</br>
 Example: `DOMAIN.LOCALhost/server.domain.local`
 
 You must supply the full salt string as required by the principal type.
