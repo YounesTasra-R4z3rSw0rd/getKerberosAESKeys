@@ -7,7 +7,7 @@ Given a password, domain/realm, and username (or any valid Kerberos salt), the s
 
 Clone the repository:
 ```bash
-git clone https://github.com/<you>/getKerberosAESKey.git
+git clone https://github.com/YounesTasra-R4z3rSw0rd/getKerberosAESKey.git
 cd getKerberosAESKey
 ```
 
